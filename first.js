@@ -6,3 +6,5 @@ console.log(login);
 
 const footer = ("footer added in aur website");
 console.log(footer);
+const payment = "Intergrated the payment getway";
+console.log(payment);
